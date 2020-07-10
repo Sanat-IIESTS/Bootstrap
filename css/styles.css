@@ -52,3 +52,16 @@ body {
   position: absolute;
   bottom: 0px;
   z-index: 1; }
+
+.modal .modal-header {
+  background-color: #512DA8;
+  color: #ddd; }
+
+.modal .modal-body {
+  background-color: #9575CD; }
+
+#loginmodalbutton {
+  color: #9575CD; }
+
+#reservetablebutton {
+  color: #9575CD; }
